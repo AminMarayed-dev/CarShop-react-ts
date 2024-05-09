@@ -12,19 +12,19 @@
       "name": "Hyundai",
       "price": 200,
       "description": "This is a short description of Hyundai",
-      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQpf4VhRb1FRLygMsIssfLpkoRRT5VFfRVuJU2rHgZlA&s"
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgdoEexiVhKg3-ajTpjpuDXY5d7Uu2ZWhK7KMlbopFwQ&s"
     },
     {
       "id": 3,
-      "name": "2020 Chevrolet Corvette",
-      "price": 100,
+      "name": "Benz",
+      "price": 300,
       "description": "This is a short description of Benz",
-      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQumuiDJy4wMCyElnWUZsd7xg91R53ZHETWFLDqTEVw&s"
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmZAl2JiEOrz5pEwWV94Zg9K5Df6-xpo1Er3oY86eJQQ&s"
     },
     {
       "id": 4,
       "name": "Ralls-Rayce-Phantom",
-      "price": 100,
+      "price": 400,
       "description": "This is a short description of Ralls-Rayce-Phantom",
       "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkF8RfHWNCYom7CgJtnENLWbQ9Ip_FTcpRbm4eoD1Eg&s"
     }
